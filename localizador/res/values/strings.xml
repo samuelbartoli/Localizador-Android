@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Localizador</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Localizador</string>
+    <string name="edit_message">escriba el mensaje</string>
+    <string name="bbuscar">Buscar posicion GPS</string>
+    <string name="buscar">Buscando...</string>
+    <string name="buscar_senal_gps">Buscando senal gps</string>
+    <string name="gps_signal_not_found">Ubicacion GPS no encontrada</string>
+    <string name="gps_senal_encontrada">Senal de GPS encontrada</string>
+    <string name="texto">Ubicacion</string>
+
+</resources>
